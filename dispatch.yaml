@@ -1,0 +1,7 @@
+dispatch:
+
+  - url: "*/index/*"
+    service: index
+
+  - url: "*/calculate/*"
+    service: calculator
